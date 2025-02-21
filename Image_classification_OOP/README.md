@@ -40,29 +40,33 @@ Seaborn 0.12.2 (Advanced statistical plots)
 
 OpenCV 4.8.0.76 (Edge case image modifications)
 
-📁 Project Structure
+# 📁 Project Structure
 
-📂 Image_classification_OOP
- ├── 📂 AI DS internship test
- │   ├── 📂 models
- │   │   ├── mnist_classifier_interface.py  # Interface for models
- │   │   ├── random_forest_classifier.py    # Random Forest implementation
- │   │   ├── neural_network_classifier.py   # Neural Network implementation
- │   │   ├── cnn_classifier.py              # CNN implementation
- │   │   ├── mnist_classifier.py            # Wrapper for all models
- │   │   ├── __init__.py
- │   ├── 📂 notebooks
- │   │   ├── demo.ipynb  # Jupyter Notebook with full testing & visualization
- │   │   ├── draft.ipynb  # Draft Notebook where I tested the code.
- │   ├── requirements.txt  # Required libraries
- │   ├── README.md  # Project documentation
+📂 **Image_classification_OOP**
+ ├── 📂 **models**  
+ │   │   ├── `mnist_classifier_interface.py`  # Interface for models  
+ │   │   ├── `random_forest_classifier.py`    # Random Forest implementation  
+ │   │   ├── `neural_network_classifier.py`   # Neural Network implementation  
+ │   │   ├── `cnn_classifier.py`              # CNN implementation  
+ │   │   ├── `mnist_classifier.py`            # Wrapper for all models  
+ │   │   ├── `__init__.py`  
+ │   │  
+ ├── 📂 **notebooks**  
+ │   │   ├── `demo.ipynb`  # Jupyter Notebook with full testing & visualization  
+ │   │   ├── `draft.ipynb`  # Draft Notebook where I tested the code.  
+ │   │  
+ ├── `requirements.txt`  # Required libraries  
+ ├── `README.md`  # Project documentation  
 
-🚀 Installation & Setup
+---
 
-1️⃣ Clone the repository
+# 🚀 Installation & Setup
 
+### 1️⃣ **Clone the repository**
+```bash
 git clone https://github.com/Markol06/AI-DS-testproject.git
-cd AI-DS-testproject/Image_classification_OOP/AI DS internship test
+cd AI-DS-testproject/Image_classification_OOP
+
 
 2️⃣ Install dependencies
 
