@@ -43,7 +43,7 @@ OpenCV 4.8.0.76 (Edge case image modifications)
 📁 Project Structure
 
 📂 Image_classification_OOP
- ├── 📂 Winstars AI DS internship test
+ ├── 📂 AI DS internship test
  │   ├── 📂 models
  │   │   ├── mnist_classifier_interface.py  # Interface for models
  │   │   ├── random_forest_classifier.py    # Random Forest implementation
