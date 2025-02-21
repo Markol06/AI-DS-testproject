@@ -62,7 +62,7 @@ OpenCV 4.8.0.76 (Edge case image modifications)
 1️⃣ Clone the repository
 
 git clone https://github.com/Markol06/AI-DS-testproject.git
-cd AI-DS-testproject/Image_classification_OOP/Winstars AI DS internship test
+cd AI-DS-testproject/Image_classification_OOP/AI DS internship test
 
 2️⃣ Install dependencies
 
