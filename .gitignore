@@ -1,0 +1,43 @@
+# Ignore virtual environments
+venv/
+env/
+.venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore model weights and checkpoints
+NER/model/
+Image_Classification/model/
+*.pth
+*.ckpt
+
+# Ignore dataset and large files
+dataset/
+!dataset/ner_data.json
+*.csv
+*.h5
+*.hdf5
+*.npz
+
+# Ignore logs and cache
+logs/
+*.log
+*.out
+*.err
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+
+# Ignore IDE settings
+.idea/
+*.iml
