@@ -41,3 +41,4 @@ Thumbs.db
 # Ignore IDE settings
 .idea/
 *.iml
+notebooks/NER/model/model.safetensors
